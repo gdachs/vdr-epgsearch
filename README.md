@@ -1,4 +1,0 @@
-vdr-epgsearch
-=============
-
-vdr-epgsearch
